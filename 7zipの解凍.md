@@ -17,3 +17,4 @@
 
 <br><b>※各参加者の実験システムの7zipにはパスワードが設定してある
 <br>※展開する際にパスワードの入力を求められるため、研究室で使用するいつものパスワードを入れて「OK」を押す
+<br><img width="818" height="421" alt="image" src="https://github.com/user-attachments/assets/23faac4c-bd11-4f25-a6a7-914a3a141dba" />
